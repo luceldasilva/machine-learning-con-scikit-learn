@@ -1,2 +1,6 @@
-# machine-learning-con-scikit-learn
-Notas del Curso Profesional de Machine Learning con Scikit-Learn en Platzi
+# Machine Learning con Scikit-Learn
+Notas del Curso de Platzi   
+
+[![](https://i.imgur.com/HSO201b.png)](https://platzi.com/cursos/scikitlearn/)
+
+
